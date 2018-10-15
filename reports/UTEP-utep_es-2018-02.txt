@@ -1,0 +1,276 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 243
+Number of records retrieved in searches: 1928
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 18
+	Country: Mexico ; Times: 26
+	Country: Denmark ; Times: 48
+	Country: United States ; Times: 141
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 7
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 7
+	Date: 2018-02-07 ; Times: 8
+	Date: 2018-02-06 ; Times: 5
+	Date: 2018-02-05 ; Times: 4
+	Date: 2018-02-04 ; Times: 50
+	Date: 2018-02-21 ; Times: 8
+	Date: 2018-02-20 ; Times: 28
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-22 ; Times: 5
+	Date: 2018-02-25 ; Times: 4
+	Date: 2018-02-24 ; Times: 7
+	Date: 2018-02-27 ; Times: 15
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 7
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 14
+	Date: 2018-02-16 ; Times: 14
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-10 ; Times: 6
+	Date: 2018-02-11 ; Times: 6
+	Date: 2018-02-12 ; Times: 8
+	Date: 2018-02-13 ; Times: 11
+	Date: 2018-02-18 ; Times: 5
+	Date: 2018-02-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "vulpes macrotis" ; Times: 1
+	Query: "Gopherus agassizi" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; (Heloderma suspectum)" ; Times: 1
+	Query: "gopherus flavomarginatus" ; Times: 3
+	Query: "Capra" ; Times: 1
+	Query: "North Midden" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "strix mexico" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes institutioncode:UTEP" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Elaphe guttata mappable:1" ; Times: 4
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:heloderma" ; Times: 2
+	Query: "Heterodon nasicus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:1986 institutioncode:UTEP" ; Times: 2
+	Query: "Stockoceros conklingi " ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 4
+	Query: "panthera onca" ; Times: 3
+	Query: "Anas cyanoptera mappable:1" ; Times: 2
+	Query: "nothrotheriops" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: "Equus asinus asinus" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon institutioncode:UTEP" ; Times: 1
+	Query: "senticolis triaspis" ; Times: 4
+	Query: "Ovis canadensis mappable:1" ; Times: 2
+	Query: "Mylohyus nasutus " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UTEP:ES:20-25?seid=3383409&#34;" ; Times: 4
+	Query: "specificepithet:concolor genus:puma country:&#34;mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes" ; Times: 1
+	Query: "Neotoma floridana" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 7
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UTEP:ES:18-545?seid=3368919&#34;" ; Times: 4
+	Query: "catalognumber:434" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UTEP:ES:18-549?seid=3368786&#34;" ; Times: 4
+	Query: "Equus asinus" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufus genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:velox genus:Vulpes institutioncode:UTEP" ; Times: 1
+	Query: "&#34;Lithobates pipiens&#34; or &#34;Rana pipiens&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:120" ; Times: 2
+	Query: "caracara cheriway" ; Times: 2
+	Query: "Crotalus lepidus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:447" ; Times: 1
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "Oreamnos harringtoni " ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UTEP:ES:20-26?seid=3383421&#34;" ; Times: 4
+	Query: "Euceratherium collinum " ; Times: 1
+	Query: "myotis ciliolabrum country:&#34;mexico&#34;" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UTEP:ES:20-23?seid=3383424&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:concolor genus:puma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Bassariscus" ; Times: 4
+	Query: "vntype:specimen specificepithet:rufus genus:lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Equus francisci " ; Times: 1
+	Query: "mustela nigripes" ; Times: 52
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 5
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "genus:Tyto alba basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UTEP:ES:18-546?seid=3368750&#34;" ; Times: 4
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UTEP:ES:20-21?seid=3383410&#34;" ; Times: 4
+	Query: "Vulpes macrotis" ; Times: 13
+	Query: "stegomastodon" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "&#34;cryptotis parva&#34; &#34;new mexico&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UTEP:ES:18-543?seid=3368973&#34;" ; Times: 4
+	Query: "catalognumber:141 institutioncode:UTEP" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP" ; Times: 1
+	Query: "phrynosoma douglasii" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "class:Mammalia institutioncode:UTEP" ; Times: 1
+	Query: "Aztlanolagus agilis " ; Times: 1
+	Query: "Aythya valisineria mappable:1" ; Times: 2
+	Query: "Camelops hesternus " ; Times: 1
+	Query: "genus:Phrynosoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "Emydidae vntype:specimen hasmedia:1 isfossil:1" ; Times: 1
+	Query: "anseriform" ; Times: 1
+	Query: "Anaxyrus cognatus" ; Times: 2
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UTEP:ES:18-252?seid=3368355&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UTEP:ES:20-24?seid=3383423&#34;" ; Times: 4
+	Query: "sorex merriami" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/UTEP:ES:18-544?seid=3369001&#34;" ; Times: 4
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34; isfossil:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:macrotis genus:Vulpes institutioncode:UTEP" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Pantherophis guttatus mappable:1" ; Times: 5
+	Query: "Navahoceros fricki " ; Times: 1
+	Query: "fossa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 97 (out of 1892 download events in this period)
+Total number of records downloaded: 70894
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 1
+	Country: United States ; Times: 79
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-24 ; Times: 3
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-13 ; Times: 4
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-19 ; Times: 3
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 39
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-20 ; Times: 5
+	Date: 2018-02-05 ; Times: 11
+	Date: 2018-02-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "class:aves recordedby:weber" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:Mammalia institutioncode:UTEP" ; Times: 4
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Anaxyrus cognatus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma country:&#34;mexico&#34;" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 2
+	Query: "peromyscus gratus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 2
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx country:&#34;mexico&#34;" ; Times: 1
+	Query: "Emydidae vntype:specimen hasmedia:1 isfossil:1" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Peromyscus pectoralis" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "testudinidae" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:parva genus:Cryptotis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:Canis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:alpestris genus:Eremophila" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "xerospermophilus spilosoma" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "stegomastodon" ; Times: 2
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34; isfossil:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "nothrotheriops" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Heterodon nasicus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+
+
+End of report.
