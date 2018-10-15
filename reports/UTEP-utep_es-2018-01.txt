@@ -1,0 +1,219 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 197
+Number of records retrieved in searches: 3931
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 45
+	Country: Denmark ; Times: 16
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 129
+	Country: Guatemala ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 7
+	Date: 2018-01-31 ; Times: 10
+	Date: 2018-01-30 ; Times: 4
+	Date: 2018-01-11 ; Times: 4
+	Date: 2018-01-10 ; Times: 16
+	Date: 2018-01-13 ; Times: 4
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 11
+	Date: 2018-01-14 ; Times: 7
+	Date: 2018-01-17 ; Times: 6
+	Date: 2018-01-16 ; Times: 36
+	Date: 2018-01-24 ; Times: 11
+	Date: 2018-01-25 ; Times: 16
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-09 ; Times: 3
+	Date: 2018-01-28 ; Times: 4
+	Date: 2018-01-29 ; Times: 4
+	Date: 2018-01-02 ; Times: 12
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-06 ; Times: 2
+	Date: 2018-01-21 ; Times: 2
+	Date: 2018-01-22 ; Times: 8
+	Date: 2018-01-07 ; Times: 2
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-05 ; Times: 6
+	Date: 2018-01-23 ; Times: 5
+	Date: 2018-01-27 ; Times: 3
+	Date: 2018-01-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:UTEP basisofrecord:FossilSpecimen isfossil:1" ; Times: 12
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Accipiter cooperii" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Anaxyrus punctatus" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "caracara cheriway" ; Times: 2
+	Query: "rodent" ; Times: 1
+	Query: "Fulica americana" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "Charadrius vociferus" ; Times: 1
+	Query: "&#34;erethizon dorsatum&#34; mappable:1" ; Times: 3
+	Query: "Spiza americana" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "Equus caballus" ; Times: 3
+	Query: "Anas discors" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "mustela nigripes" ; Times: 60
+	Query: "stateprovince:&#34;New Mexico&#34; institutioncode:UTEP basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "genus:Chelonia country:&#34;mexico&#34; isfossil:1" ; Times: 1
+	Query: "Equus asinus" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 3
+	Query: "genus:Coragyps hastissue:1" ; Times: 1
+	Query: "phrynosoma douglasii" ; Times: 1
+	Query: "felis concolor" ; Times: 5
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Anas americana" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "Erethizon dorsatum mappable:1" ; Times: 2
+	Query: "genus:heterodon stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "county:&#34;dona ana&#34; institutioncode:UTEP basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "plestiodon obsoletus" ; Times: 6
+	Query: "Panthera onca" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Petrochelidon pyrrhonota" ; Times: 1
+	Query: "&#34;Bassariscus astutus&#34; mappable:1" ; Times: 2
+	Query: "Tringa melanoleuca" ; Times: 1
+	Query: "erethizon dorsatum mappable:1" ; Times: 3
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "specificepithet:triaspis genus:senticolis" ; Times: 1
+	Query: "(&#34;Carbon*&#34;) isfossil:1" ; Times: 1
+	Query: "(radiometric*) isfossil:1" ; Times: 3
+	Query: "catalognumber:1290" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "Sylvilagus brasiliensis" ; Times: 1
+	Query: "rhinocheilus lecontei stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Corvus corax" ; Times: 1
+	Query: "county:&#34;eddy&#34; institutioncode:UTEP basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "gallus gallus" ; Times: 2
+	Query: "Senticolis triaspis" ; Times: 4
+	Query: "Phrynosoma douglasii mappable:1" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2018 mappable:1" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "Cervus elaphus elaphus" ; Times: 4
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:Bison genus:Bison" ; Times: 1
+	Query: "pallas cat" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "Equus asinus asinus" ; Times: 1
+	Query: "catalognumber:1044" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1398 download events in this period)
+Total number of records downloaded: 5289
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 36
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 1
+	Date: 2018-01-31 ; Times: 3
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-02 ; Times: 4
+	Date: 2018-01-06 ; Times: 7
+	Date: 2018-01-13 ; Times: 3
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-16 ; Times: 1
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-30 ; Times: 5
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-25 ; Times: 5
+	Date: 2018-01-23 ; Times: 2
+	Date: 2018-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis evotis mappable:1" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "phrynosoma douglasii" ; Times: 1
+	Query: "Lasiurus cinereus mappable:1" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "class:aves recordedby:*weber*" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis thysanodes mappable:1" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Myotis lucifugus mappable:1" ; Times: 1
+	Query: "hasmedia:1" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "Accipiter" ; Times: 1
+	Query: "genus:Coragyps hastissue:1" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops mappable:1" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Phrynosoma hernandesi mappable:1" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "&#34;Falco sparverius&#34; vntype:specimen" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:Tamias" ; Times: 1
+	Query: "Epicyon" ; Times: 1
+	Query: "(radiometric*) isfossil:1" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "specificepithet:canipes genus:Tamias" ; Times: 1
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "Phrynosoma douglasii mappable:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Myotis californicus mappable:1" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "Myotis ciliolabrum mappable:1" ; Times: 1
+
+
+End of report.
