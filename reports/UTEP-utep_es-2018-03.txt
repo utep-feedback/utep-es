@@ -1,0 +1,219 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 353
+Number of records retrieved in searches: 6852
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 327
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 9
+	Country: United Kingdom ; Times: 8
+	Country: China ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 24
+	Date: 2018-03-29 ; Times: 21
+	Date: 2018-03-17 ; Times: 3
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-15 ; Times: 7
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-12 ; Times: 5
+	Date: 2018-03-11 ; Times: 3
+	Date: 2018-03-10 ; Times: 3
+	Date: 2018-03-31 ; Times: 3
+	Date: 2018-03-30 ; Times: 37
+	Date: 2018-03-19 ; Times: 4
+	Date: 2018-03-01 ; Times: 10
+	Date: 2018-03-02 ; Times: 20
+	Date: 2018-03-03 ; Times: 10
+	Date: 2018-03-04 ; Times: 3
+	Date: 2018-03-05 ; Times: 16
+	Date: 2018-03-06 ; Times: 30
+	Date: 2018-03-07 ; Times: 7
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-09 ; Times: 4
+	Date: 2018-03-25 ; Times: 4
+	Date: 2018-03-22 ; Times: 6
+	Date: 2018-03-23 ; Times: 9
+	Date: 2018-03-20 ; Times: 15
+	Date: 2018-03-21 ; Times: 20
+	Date: 2018-03-27 ; Times: 29
+	Date: 2018-03-26 ; Times: 51
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:McConnell" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UTEP" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 5
+	Query: "Circus corax" ; Times: 1
+	Query: "genus:Anas specificepithet:acuta" ; Times: 2
+	Query: "genus:Icaronycteris specificepithet:index" ; Times: 7
+	Query: "specificepithet:microscaphus institutioncode:UTEP" ; Times: 1
+	Query: "genus:Podiceps specificepithet:nigricollis" ; Times: 2
+	Query: "North Midden" ; Times: 2
+	Query: "catalognumber:3829 institutioncode:UTEP" ; Times: 2
+	Query: "genus:Dipodomys specificepithet:spectabilis" ; Times: 2
+	Query: "genus:Lepus specificepithet:californicus" ; Times: 2
+	Query: "Conepatus" ; Times: 1
+	Query: "genus:Meleagris specificepithet:gallopavo" ; Times: 2
+	Query: "specificepithet:gracilis genus:spilogale" ; Times: 23
+	Query: "genus:Lasiurus specificepithet:cinereus" ; Times: 2
+	Query: "specificepithet:latrans genus:canis country:&#34;united states&#34; year &gt;= 1970 year &lt;= 1995 basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "8221" ; Times: 1
+	Query: "specificepithet:latrans genus:canis country:&#34;united states&#34; year &gt;= 1970 year &lt;= 1995 basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "genus:Ursus specificepithet:americanus" ; Times: 1
+	Query: "genus:Bos specificepithet:taurus" ; Times: 5
+	Query: "catalognumber:368 institutioncode:UTEP" ; Times: 2
+	Query: "genus:Neotoma specificepithet:floridana" ; Times: 5
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:punctatus" ; Times: 1
+	Query: "genus:Crotaphytus specificepithet:collaris" ; Times: 1
+	Query: "genus=mustela specificepithet=nigripes mappable=1" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor" ; Times: 5
+	Query: "genus:Anas specificepithet:crecca" ; Times: 2
+	Query: "genus:Cathartes" ; Times: 3
+	Query: "genus:Gallus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 8
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 6
+	Query: "genus:Colinus specificepithet:virginianus " ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "specificepithet:mexicana genus:Neotoma" ; Times: 1
+	Query: "genus:Gyalopion specificepithet:canum" ; Times: 5
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "specificepithet:nigripes genus:mustela year&gt;=1900" ; Times: 1
+	Query: "genus:Corvus specificepithet:corax" ; Times: 2
+	Query: "genus:Homotherium specificepithet:serum" ; Times: 5
+	Query: "genus:Gallus specificepithet:gallus" ; Times: 6
+	Query: "Lithobates pipiens" ; Times: 2
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 5
+	Query: "genus:erethizon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Myotis specificepithet:thysanodes" ; Times: 2
+	Query: "genus:Smilodon specificepithet:fatalis" ; Times: 5
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:nigripes genus:mustela" ; Times: 1
+	Query: "genus:Castor specificepithet:canadensis" ; Times: 2
+	Query: "genus:Chen specificepithet:caerulescens" ; Times: 2
+	Query: "specificepithet:atrox stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "genus:Circus specificepithet:cyaneus" ; Times: 2
+	Query: "order:caudata country:&#34;mexico&#34; (cave)" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34; Ursus americanus" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "vntype:specimen genus:Arizona isfossil:1" ; Times: 3
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 5
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Heterodon texas" ; Times: 1
+	Query: "anaxyrus cognatus" ; Times: 1
+	Query: "genus:Microtus specificepithet:ochrogaster" ; Times: 2
+	Query: "genus:Myotis specificepithet:evotis" ; Times: 2
+	Query: "genus:Chen  specificepithet:caerulescens" ; Times: 3
+	Query: "vntype:specimen order:Anura institutioncode:UTEP" ; Times: 1
+	Query: "genus:Anas specificepithet:discors" ; Times: 3
+	Query: "genus:Canis specificepithet:dirus" ; Times: 5
+	Query: "(Carbon) AND (NOT PBDB) isfossil:1" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 15
+	Query: "felis domesticus" ; Times: 1
+	Query: "genus:Geococcyx specificepithet:californianus" ; Times: 6
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "B 1482" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:microscaphus" ; Times: 6
+	Query: "specificepithet:parva genus:Cryptotis" ; Times: 1
+	Query: "genus:Arctodus specificepithet:simus" ; Times: 5
+	Query: "genus:Myotis specificepithet:ciliolabrum" ; Times: 2
+	Query: "genus:Athene specificepithet:cunicularia" ; Times: 2
+	Query: "genus:Trimorphodon specificepithet:vilkinsonii" ; Times: 5
+	Query: "genus:Sceloporus specificepithet:magister" ; Times: 1
+	Query: "genus:Crotaphytus institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 1
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 5
+	Query: "smilodon" ; Times: 1
+	Query: "mustela nigripes" ; Times: 62
+	Query: "genus:Neotoma specificepithet:cinerea" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis institutioncode:UTEP" ; Times: 1
+	Query: "genus:Crotalus specificepithet:atrox" ; Times: 3
+	Query: "genus:Ambystoma specificepithet:mavortium" ; Times: 6
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "scientificname:mustela nigripes" ; Times: 2
+	Query: "genus:Aquila specificepithet:chrysaetos" ; Times: 5
+	Query: "genus:Spea specificepithet:multiplicata" ; Times: 3
+	Query: "genus:Tyto specificepithet:alba" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis isfossil:1" ; Times: 1
+	Query: "scientificname:Panthera onca " ; Times: 1
+	Query: "Mustela nigripes" ; Times: 7
+	Query: "genus:Anaxyrus specificepithet:cognatus" ; Times: 6
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 4
+	Query: "genus:Merycoidodon specificepithet:culbertsoni" ; Times: 5
+	Query: "specificepithet:onca " ; Times: 1
+	Query: "specificepithet:concolor genus:Puma country:&#34;mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1284 download events in this period)
+Total number of records downloaded: 2323
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 15
+	Country: Poland ; Times: 4
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 4
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-10 ; Times: 3
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-29 ; Times: 6
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-27 ; Times: 4
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "family:Felidae" ; Times: 1
+	Query: "genus:Crotaphytus institutioncode:UTEP" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "class:Aves year &gt;= 2000 year &lt;= 2010 month &gt;= 1 month &lt;= 12 startdayofyear &gt;= 1" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34; Ursus americanus" ; Times: 3
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "family:gruidae hastissue:1" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "specificepithet:gracilis genus:spilogale" ; Times: 1
+	Query: "genus:Reithrodontomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:UTEP" ; Times: 1
+	Query: "cricetidae hasmass:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves 2000 specimen" ; Times: 1
+	Query: "family:Corvidae hastissue:1" ; Times: 1
+	Query: "rodentia hasmass:1" ; Times: 3
+	Query: "specificepithet:megalotis genus:Reithrodontomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma country:&#34;mexico&#34;" ; Times: 1
+	Query: "neotoma leucodon" ; Times: 1
+
+
+End of report.
