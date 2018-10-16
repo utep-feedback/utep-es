@@ -1,0 +1,242 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 372
+Number of records retrieved in searches: 6367
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 356
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 7
+	Date: 2018-04-28 ; Times: 4
+	Date: 2018-04-23 ; Times: 48
+	Date: 2018-04-22 ; Times: 18
+	Date: 2018-04-21 ; Times: 21
+	Date: 2018-04-20 ; Times: 6
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 4
+	Date: 2018-04-25 ; Times: 4
+	Date: 2018-04-24 ; Times: 35
+	Date: 2018-04-01 ; Times: 3
+	Date: 2018-04-03 ; Times: 13
+	Date: 2018-04-02 ; Times: 10
+	Date: 2018-04-05 ; Times: 30
+	Date: 2018-04-04 ; Times: 10
+	Date: 2018-04-07 ; Times: 5
+	Date: 2018-04-06 ; Times: 8
+	Date: 2018-04-09 ; Times: 4
+	Date: 2018-04-08 ; Times: 7
+	Date: 2018-04-16 ; Times: 7
+	Date: 2018-04-12 ; Times: 11
+	Date: 2018-04-13 ; Times: 5
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-11 ; Times: 7
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-17 ; Times: 74
+	Date: 2018-04-14 ; Times: 4
+	Date: 2018-04-15 ; Times: 5
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "heloderma" ; Times: 2
+	Query: "Anaxyrus punctatus" ; Times: 1
+	Query: "genus:Panthera " ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:nuttallii mappable:1" ; Times: 2
+	Query: "North Midden" ; Times: 1
+	Query: "bogertophis subocularis" ; Times: 9
+	Query: "genus:Sorex specificepithet:nanus mappable:1" ; Times: 2
+	Query: "genus:Sorex specificepithet:preblei mappable:1" ; Times: 2
+	Query: "Anaxyrus debilis" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Sylvilagus vntype:specimen (Ecuador)" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:brasiliensis mappable:1" ; Times: 2
+	Query: "genus:Neotoma specificepithet:leucodon mappable:1" ; Times: 1
+	Query: "specificepithet:nanus genus:Sorex" ; Times: 1
+	Query: "Trimorphodon vilkinsonii New Mexico" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "north midden" ; Times: 1
+	Query: "320 Dipodomys" ; Times: 1
+	Query: "genus:Brachylagus specificepithet:idahoensis mappable:1" ; Times: 1
+	Query: "bison vntype:specimen stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "genus:Perognathus specificepithet:merriami mappable:1" ; Times: 1
+	Query: "scaphiopus hammondi" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea" ; Times: 4
+	Query: "caracara cheriway" ; Times: 3
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "genus:Lepus specificepithet:townsendii mappable:1" ; Times: 1
+	Query: "genus:Canis specificepithet:dirus mappable:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "lasiurus sp" ; Times: 1
+	Query: "spea hammondi" ; Times: 2
+	Query: "specificepithet:vilkinsonii genus:Trimorphodon" ; Times: 6
+	Query: "&#34;Ursus Americanus&#34; vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "genus:Urocitellus specificepithet:elegans mappable:1" ; Times: 2
+	Query: "CM 2257" ; Times: 3
+	Query: "(extinct) isfossil:1" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:ochrognathus mappable:1" ; Times: 2
+	Query: "genus:Sorex specificepithet:merriami mappable:1" ; Times: 2
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Ovis specificepithet:canadensis mappable:1" ; Times: 1
+	Query: "bison vntype:specimen class:mammalia stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "genus:Marmota specificepithet:flaviventris mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:nasutus mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "genus:Mylohyus specificepithet:nasutus mappable:1" ; Times: 1
+	Query: "axis axis" ; Times: 2
+	Query: "scientificname:panthera onca " ; Times: 5
+	Query: "specificepithet:macrotis genus:Vulpes year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "vntype:specimen specificepithet:scripta genus:Trachemys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor mappable:1" ; Times: 2
+	Query: "genus:Cynomys specificepithet:ludovicianus mappable:1" ; Times: 1
+	Query: "genus:Neotoma specificepithet:stephensi mappable:1" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 7
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34; Ursus americanus" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 35
+	Query: "Sus scrofa" ; Times: 3
+	Query: "genus:Geomys specificepithet:arenarius mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:canipes mappable:1" ; Times: 2
+	Query: "genus:Ictidomys specificepithet:tridecemlineatus mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "&#34;Ursus Americanus&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Phrynosoma hastissue:1" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "vntype:specimen specificepithet:scripta genus:Trachemys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Cynomys specificepithet:gunnisoni mappable:1" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "mustela nigripes" ; Times: 104
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "genus:Spilogale specificepithet:putorius mappable:1" ; Times: 2
+	Query: "genus:Erethizon stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 4
+	Query: "stegomastodon" ; Times: 2
+	Query: "genus:Panthera specificepithet:onca mappable:1" ; Times: 1
+	Query: "genus:Cratogeomys specificepithet:castanops mappable:1" ; Times: 1
+	Query: "genus:Spilogale specificepithet:gracilis mappable:1" ; Times: 2
+	Query: "vntype:specimen family:Cathartidae hastissue:1" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus mappable:1" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:robustus mappable:1" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "genus:Bison specificepithet:bison mappable:1" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 10
+	Query: "genus:Antilocapra specificepithet:americana mappable:1" ; Times: 1
+	Query: "genus:Taxidea specificepithet:taxus mappable:1" ; Times: 2
+	Query: "genus:Sciurus specificepithet:aberti mappable:1" ; Times: 2
+	Query: "genus:Onychomys specificepithet:arenicola mappable:1" ; Times: 1
+	Query: "genus:Vulpes specificepithet:velox mappable:1" ; Times: 2
+	Query: "genus:Neotoma specificepithet:goldmani mappable:1" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 1961 year &lt;= 1980" ; Times: 1
+	Query: "genus:Microtus specificepithet:mogollonensis mappable:1" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 9
+	Query: "Trimorphodon biscutatus New Mexico" ; Times: 2
+	Query: "caracara" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "scientificname:Panthera onca " ; Times: 17
+	Query: "genus:Xerospermophilus specificepithet:spilosoma mappable:1" ; Times: 2
+	Query: "sorex preblei" ; Times: 1
+	Query: "genus:Aztlanolagus specificepithet:agilis mappable:1" ; Times: 1
+	Query: "genus:Cynomys specificepithet:mexicanus mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:neomexicanus mappable:1" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 8
+	Query: "genus:Erethizon specificepithet:dorsatum mappable:1" ; Times: 1
+	Query: "Mustela year&gt;=1990 year&lt;=1992 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Lampropeltis New Mexico" ; Times: 2
+	Query: "specificepithet:americana genus:Antilocapra institutioncode:UTEP" ; Times: 1
+	Query: "genus:Nothrotheriops specificepithet:shastensis mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1359 download events in this period)
+Total number of records downloaded: 1461
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-09 ; Times: 6
+	Date: 2018-04-08 ; Times: 2
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-16 ; Times: 5
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-22 ; Times: 3
+	Date: 2018-04-23 ; Times: 4
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "Anaxyrus punctatus" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "family:Ambystomatidae locality:Mexico" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 6
+	Query: "spea hammondi" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus mappable:1" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "&#34;Ursus Americanus&#34; vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Squamata hastissue:1" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "Anaxyrus debilis" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "specificepithet:aura genus:Cathartes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Anaxyrus woodhousii" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus continent:North America" ; Times: 2
+	Query: "Anaxyrus speciosus" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "stegomastodon" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Lampropeltis New Mexico" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra institutioncode:UTEP" ; Times: 1
+
+
+End of report.
