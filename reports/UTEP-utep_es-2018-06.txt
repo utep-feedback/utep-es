@@ -1,0 +1,155 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 1653
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 113
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Finland ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-06 ; Times: 8
+	Date: 2018-06-05 ; Times: 6
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-03 ; Times: 5
+	Date: 2018-06-02 ; Times: 3
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-25 ; Times: 7
+	Date: 2018-06-24 ; Times: 2
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 8
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-08 ; Times: 6
+	Date: 2018-06-09 ; Times: 5
+	Date: 2018-06-22 ; Times: 7
+	Date: 2018-06-10 ; Times: 3
+	Date: 2018-06-11 ; Times: 3
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-14 ; Times: 2
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-17 ; Times: 2
+	Date: 2018-06-18 ; Times: 23
+	Date: 2018-06-19 ; Times: 5
+	Date: 2018-06-30 ; Times: 3
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "urocyon cinereoargenteus mexico" ; Times: 1
+	Query: "Canis latrans new mexico Sandoval County" ; Times: 1
+	Query: "phrynosoma douglasii" ; Times: 5
+	Query: "Canis latrans new mexico Rio Arriba" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "archaeological" ; Times: 1
+	Query: "Gopherus morafkai" ; Times: 2
+	Query: "mustela nigripes" ; Times: 68
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 7
+	Query: "Puma concolor" ; Times: 4
+	Query: "genus:Pantherophis county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "Canis latrans new mexico Otero County" ; Times: 1
+	Query: "viperidae UTEP" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 8
+	Query: "Canis latrans New Mexico Rio Arriba" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:UTEP" ; Times: 1
+	Query: "Equus caballus" ; Times: 2
+	Query: "puma concolor mexico" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "plestiodon obsoletus" ; Times: 1
+	Query: "Crotalus bernalillo" ; Times: 2
+	Query: "CM 4232" ; Times: 1
+	Query: "NOTIOSOREX HIDALGO" ; Times: 1
+	Query: "Anaxyrus nebulifer" ; Times: 1
+	Query: "Canis latrans new mexico Sandoval" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "CM 7731" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "family:viperidae institutioncode:UTEP" ; Times: 1
+	Query: "antilocapra" ; Times: 6
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "scientificname:panthera onca " ; Times: 4
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "Canis latrans new mexico Bernalillo" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1169 download events in this period)
+Total number of records downloaded: 3342
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 5
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 2
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis latrans new mexico" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Gopherus morafkai" ; Times: 1
+	Query: "Panthera onca en mexico" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 1
+	Query: "Incilius nebulifer" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor mexico" ; Times: 1
+	Query: "plestiodon obsoletus" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "family:viperidae institutioncode:UTEP" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "chihuahua reptilia" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "Microtus" ; Times: 1
+
+
+End of report.
