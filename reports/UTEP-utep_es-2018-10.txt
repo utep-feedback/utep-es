@@ -1,0 +1,207 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 2075
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+	Country: Israel ; Times: 3
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 23
+	Country: United States ; Times: 121
+	Country: China ; Times: 2
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 10
+	Date: 2018-10-04 ; Times: 15
+	Date: 2018-10-05 ; Times: 2
+	Date: 2018-10-07 ; Times: 4
+	Date: 2018-10-01 ; Times: 7
+	Date: 2018-10-02 ; Times: 3
+	Date: 2018-10-03 ; Times: 9
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-22 ; Times: 4
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-06 ; Times: 2
+	Date: 2018-10-21 ; Times: 2
+	Date: 2018-10-26 ; Times: 6
+	Date: 2018-10-27 ; Times: 2
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-25 ; Times: 11
+	Date: 2018-10-28 ; Times: 2
+	Date: 2018-10-29 ; Times: 14
+	Date: 2018-10-08 ; Times: 17
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-18 ; Times: 8
+	Date: 2018-10-13 ; Times: 4
+	Date: 2018-10-12 ; Times: 11
+	Date: 2018-10-11 ; Times: 10
+	Date: 2018-10-10 ; Times: 3
+	Date: 2018-10-17 ; Times: 4
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 4
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Felis concolor year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:spectabilis genus:Dipodomys country:&#34;México&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:aries genus:Ovis" ; Times: 1
+	Query: "specificepithet:spilosoma genus:Xerospermophilus" ; Times: 1
+	Query: "Urocyon cinereoargenteus year &gt;= 1970" ; Times: 2
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 3
+	Query: "UTEP 4348" ; Times: 1
+	Query: "genus:Pituophis institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Felis concolor" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 6
+	Query: "Puma concolor" ; Times: 3
+	Query: "CM 9263" ; Times: 3
+	Query: "genus:aspidoscelis preparations:skeleton" ; Times: 1
+	Query: "genus:ursus country:&#34;mexico&#34;" ; Times: 2
+	Query: "Chaetodipus hispidus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:gunnisoni genus:Cynomys" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Cynomys" ; Times: 1
+	Query: "specificepithet:spectabilis genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:neomexicana genus:aspidoscelis preparations:skeleton" ; Times: 1
+	Query: "family:Erethizontidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:variegatus genus:Otospermophilus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Sorex preblei" ; Times: 1
+	Query: "brachylagus" ; Times: 3
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis institutioncode:UTEP" ; Times: 1
+	Query: "mustela nigripes" ; Times: 64
+	Query: "genus:Lampropeltis institutioncode:UTEP" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Cynomys" ; Times: 8
+	Query: "UTEP 5218" ; Times: 2
+	Query: "continent:North America Cervus elaphus" ; Times: 2
+	Query: "ferret" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Marmota" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 7
+	Query: "specificepithet:evotis genus:Myotis" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Brachylagus idahoensis mappable:1" ; Times: 1
+	Query: "taxidea taxus mexico" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys" ; Times: 1
+	Query: "specificepithet:hispidus genus:chaetodipus stateprovince:&#34;texas&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "UTEP 8678" ; Times: 2
+	Query: "genus:Pantherophis institutioncode:UTEP" ; Times: 1
+	Query: "genus:Sceloporus institutioncode:UTEP" ; Times: 1
+	Query: "rana catesbiana" ; Times: 1
+	Query: "specificepithet:tridecemlineatus genus:Ictidomys" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "Pituophis institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;texas&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Puma concolor country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:laceianus genus:Peromyscus" ; Times: 2
+	Query: "puma concolor startdayofyear &lt;= 1970" ; Times: 1
+	Query: "specificepithet:arenarius genus:Geomys" ; Times: 1
+	Query: "specificepithet:elegans genus:Urocitellus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "sceloporus cowlesi" ; Times: 2
+	Query: "specificepithet:aberti genus:Sciurus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1300 download events in this period)
+Total number of records downloaded: 56326
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: India ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 3
+	Date: 2018-10-04 ; Times: 13
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 4
+	Date: 2018-10-30 ; Times: 4
+	Date: 2018-10-22 ; Times: 7
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-26 ; Times: 3
+	Date: 2018-10-24 ; Times: 6
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-08 ; Times: 3
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 4
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-10 ; Times: 3
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-15 ; Times: 2
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Diadophis punctatus" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 3
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "specificepithet:spectabilis genus:Dipodomys country:&#34;México&#34;" ; Times: 1
+	Query: "Corynorhinus" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "Carlsbad Caverns vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 3
+	Query: "vntype:specimen class:Mammalia county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "genus:Peromyscus county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:ursus country:&#34;mexico&#34;" ; Times: 2
+	Query: "onychomys torridus AND new mexico" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "Canis latrans country:&#34;Mexico&#34;" ; Times: 2
+	Query: "onychomys leucogaster AND new mexico" ; Times: 2
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "genus:Pantherophis institutioncode:UTEP" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;chihuahua&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "genus:Lampropeltis institutioncode:UTEP" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; continent:North America" ; Times: 1
+	Query: "onychomys arenicola AND new mexico" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "taxidea taxus mexico" ; Times: 1
+	Query: "specificepithet:hispidus genus:chaetodipus stateprovince:&#34;texas&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Pituophis institutioncode:UTEP" ; Times: 1
+	Query: "genus:Tamias OR Neotamias OR Eutamias" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "Eptesicus fuscus genus:Eptesicus" ; Times: 1
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;texas&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Sorex preblei" ; Times: 1
+	Query: "Tamias" ; Times: 1
+	Query: "vntype:specimen class:Aves county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+
+
+End of report.
