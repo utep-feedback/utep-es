@@ -1,0 +1,196 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 209
+Number of records retrieved in searches: 1950
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 40
+	Country: India ; Times: 3
+	Country: United States ; Times: 142
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-19 ; Times: 6
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-14 ; Times: 14
+	Date: 2018-12-17 ; Times: 3
+	Date: 2018-12-11 ; Times: 11
+	Date: 2018-12-10 ; Times: 15
+	Date: 2018-12-13 ; Times: 8
+	Date: 2018-12-12 ; Times: 9
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-08 ; Times: 12
+	Date: 2018-12-09 ; Times: 6
+	Date: 2018-12-06 ; Times: 24
+	Date: 2018-12-07 ; Times: 17
+	Date: 2018-12-04 ; Times: 14
+	Date: 2018-12-05 ; Times: 20
+	Date: 2018-12-02 ; Times: 22
+	Date: 2018-12-03 ; Times: 10
+	Date: 2018-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "blairi vntype:specimen (lithobates) institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes county:&#34;hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "institutioncode:UTEP 1023" ; Times: 1
+	Query: "family:Canidae AND (NOT fossil) institutioncode:UTEP" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes hasmedia:1" ; Times: 44
+	Query: "family:Camelidae hasmedia:1" ; Times: 4
+	Query: "specificepithet:cinereoargenteus genus:urocyon family:Canidae stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; month &gt;= 5 month &lt;= 6" ; Times: 2
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "family:camelidae hasmedia:1" ; Times: 3
+	Query: "genus:Corynorhinus county:&#34;Eddy&#34;" ; Times: 2
+	Query: "skull family:Canidae AND (NOT fossil) institutioncode:UTEP" ; Times: 1
+	Query: "felis onca" ; Times: 1
+	Query: "UTEP 9827" ; Times: 2
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 12
+	Query: "class:Amphibia county:&#34;Eddy&#34;" ; Times: 3
+	Query: "UTEP 5387" ; Times: 1
+	Query: "blairi vntype:specimen (rana) institutioncode:UTEP" ; Times: 1
+	Query: "class:Reptilia county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; month &gt;= 5 month &lt;= 6" ; Times: 2
+	Query: "specificepithet:Lupus genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "UTEP 1927" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela hastypestatus:1" ; Times: 1
+	Query: "137 county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "order:Anura county:&#34;Eddy&#34;" ; Times: 1
+	Query: "specificepithet:wislizenii genus:gambelia stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "harringtoni" ; Times: 1
+	Query: "bison bison mexico genus:bison family:bovidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "UTEP 5271" ; Times: 2
+	Query: "specificepithet:yumanensis genus:Myotis county:&#34;Eddy&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "mustela nigripes" ; Times: 44
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "specificepithet:TOWNSENDII genus:lepus year &gt;= 1976" ; Times: 1
+	Query: "(Phrynosoma) year &gt;= 1985 year &lt;= 1985 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "family:Tayassuidae basisofrecord:FossilSpecimen hasmedia:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae county:&#34;reeves&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;grant&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "incilius alvarius" ; Times: 3
+	Query: "UTEP 1023" ; Times: 1
+	Query: "UTEP 7790" ; Times: 1
+	Query: "genus:Lampropeltis order:Squamata county:&#34;Eddy&#34;" ; Times: 1
+	Query: "family:Canidae institutioncode:UTEP" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:cognatus" ; Times: 1
+	Query: "north midden" ; Times: 4
+	Query: "sorex preblei" ; Times: 3
+	Query: "specificepithet:velox genus:Vulpes family:Canidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vulpes chama" ; Times: 2
+	Query: "ambystoma tigrium" ; Times: 1
+	Query: "catalognumber:1023 institutioncode:UTEP" ; Times: 4
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:notiosorex country:&#34;mexico&#34;" ; Times: 1
+	Query: "institutioncode:FMNH OR USNM genus:lynx hasmedia:0" ; Times: 1
+	Query: "137 class:Reptilia county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:Bufonidae county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus family:ursidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "specificepithet:cinereoargenteus genus:Urocyon family:Canidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon county:&#34;hidalgo&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 3
+	Query: "institutioncode:FMNH OR USNM genus:lynx hasmedia:0 OR 1" ; Times: 1
+	Query: "family:Tayassuidae hasmedia:1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 809 download events in this period)
+Total number of records downloaded: 3894
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Canada ; Times: 1
+	Country: India ; Times: 7
+	Country: Mexico ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-09 ; Times: 8
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-10 ; Times: 4
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 8
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-11 ; Times: 5
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Chaetodipus eremicus" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "gopherus flavomarginatus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "specificepithet:Lupus genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "rana blairi" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "order:Testudines" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Peromyscus nasutus mexico" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "country:&#34;Mexico&#34; continent:America" ; Times: 3
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "Spilogale putorius stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "vntype:specimen class:reptilia AND (NOT PARATYPE) hastypestatus:1" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Chaetodipus hispidus" ; Times: 2
+
+
+End of report.
