@@ -1,0 +1,157 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 2183
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 27
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: United States ; Times: 112
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Norway ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 8
+	Date: 2019-01-23 ; Times: 6
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-18 ; Times: 4
+	Date: 2019-01-14 ; Times: 11
+	Date: 2019-01-15 ; Times: 18
+	Date: 2019-01-30 ; Times: 7
+	Date: 2019-01-17 ; Times: 9
+	Date: 2019-01-10 ; Times: 5
+	Date: 2019-01-11 ; Times: 8
+	Date: 2019-01-12 ; Times: 6
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-29 ; Times: 13
+	Date: 2019-01-28 ; Times: 11
+	Date: 2019-01-07 ; Times: 4
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 7
+	Date: 2019-01-21 ; Times: 4
+	Date: 2019-01-20 ; Times: 3
+	Date: 2019-01-09 ; Times: 3
+	Date: 2019-01-22 ; Times: 19
+	Date: 2019-01-25 ; Times: 6
+	Date: 2019-01-24 ; Times: 6
+	Date: 2019-01-08 ; Times: 6
+	Date: 2019-01-16 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:townsendii genus:Corynorhinus year &gt;= 2010 year &lt;= 2019" ; Times: 2
+	Query: "Cathartes aura" ; Times: 1
+	Query: "Equus hemionus" ; Times: 2
+	Query: "&#34;Antilocapra americana&#34;" ; Times: 1
+	Query: "UTEP 8454" ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 5
+	Query: "T. proximus" ; Times: 1
+	Query: "order:Carnivora hasmedia:1 isfossil:1" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "UTEP 83" ; Times: 2
+	Query: "family:tapiridae hasmedia:1" ; Times: 3
+	Query: "UTEP 794" ; Times: 2
+	Query: "family:mephitidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "Cynomys mexicanus" ; Times: 5
+	Query: "UTEP H-83" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "falco peregrinus" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "specificepithet:merriami genus:sorex stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "family:felidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "CM-9029" ; Times: 1
+	Query: "UTEP83" ; Times: 2
+	Query: "Helodermatidae" ; Times: 1
+	Query: "UTEP 563" ; Times: 3
+	Query: "order:Carnivora preparations:skull hasmedia:1 isfossil:1" ; Times: 1
+	Query: "order:Carnivora preparations:mandible hasmedia:1 isfossil:1" ; Times: 1
+	Query: "UTEP 434" ; Times: 2
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "class:reptilia basisofrecord:FossilSpecimen hasmedia:1 isfossil:1" ; Times: 1
+	Query: "family:procyonidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "order:Carnivora preparations:Mandible hasmedia:1 isfossil:1" ; Times: 2
+	Query: "specificepithet:onca genus:panthera country:&#34;united&#34;" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:UTEP" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:merriami genus:perognathus year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "specificepithet:canipes genus:tamias" ; Times: 2
+	Query: "Panthera onca" ; Times: 53
+	Query: "CM 9029" ; Times: 1
+	Query: "family:canidae order:Carnivora preparations:skull hasmedia:1" ; Times: 2
+	Query: "Gymnogyps" ; Times: 4
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "family:Ursidae order:Carnivora hasmedia:1 isfossil:1" ; Times: 1
+	Query: "taxidea taxus" ; Times: 2
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:UTEP" ; Times: 1
+	Query: "sorex preblei" ; Times: 1
+	Query: "family:mustelidae order:Carnivora preparations:skull hasmedia:1" ; Times: 2
+	Query: "haslength:1 isfossil:1" ; Times: 1
+	Query: "UTEP 3464" ; Times: 1
+	Query: "&#34;Equus caballus&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 2
+	Query: "Smilodon hasmedia:1" ; Times: 10
+	Query: "order:Carnivora preparations:Mandible hasmedia:1" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Smilodon hasmedia:1 isfossil:1" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "stuff" ; Times: 2
+	Query: "UTEP 1239" ; Times: 1
+	Query: "UTEP 1233" ; Times: 2
+	Query: "scientificname:Panthera panthera onca hasmedia:1 " ; Times: 1
+	Query: "specificepithet:canipes genus:tamias institutioncode:UTEP" ; Times: 1
+	Query: "notiosorex hidalgo" ; Times: 4
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 5
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UTEP" ; Times: 1
+	Query: "Euceratherium" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:cognatus" ; Times: 1
+	Query: "gyalopion canum" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 962 download events in this period)
+Total number of records downloaded: 910
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-30 ; Times: 2
+	Date: 2019-01-31 ; Times: 2
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "class:Mammalia county:&#34;harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Crocodilia" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "order:perissodactyla" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
