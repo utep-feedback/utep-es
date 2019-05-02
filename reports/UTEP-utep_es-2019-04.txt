@@ -1,0 +1,206 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 2984
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 8
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 19
+	Country: United States ; Times: 89
+	Country: Guatemala ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 12
+	Date: 2019-04-19 ; Times: 19
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-05 ; Times: 3
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-17 ; Times: 4
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 9
+	Date: 2019-04-14 ; Times: 5
+	Date: 2019-04-30 ; Times: 15
+	Date: 2019-04-21 ; Times: 5
+	Date: 2019-04-02 ; Times: 7
+	Date: 2019-04-03 ; Times: 3
+	Date: 2019-04-22 ; Times: 4
+	Date: 2019-04-23 ; Times: 9
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-07 ; Times: 4
+	Date: 2019-04-26 ; Times: 4
+	Date: 2019-04-01 ; Times: 2
+	Date: 2019-04-24 ; Times: 9
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes velox" ; Times: 2
+	Query: "mustela frenata &#34;new mexico&#34;" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Luna&#34; stateprovince:&#34;New Mexico&#34; institutioncode:UTEP" ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Terrapene year &gt;= 2010 month &gt;= 4 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:debilis genus:Anaxyrus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus institutioncode:UTEP" ; Times: 1
+	Query: "scientificname:Equus caballus " ; Times: 1
+	Query: "class:reptilia county:&#34;el paso&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP" ; Times: 1
+	Query: "family:ursidae hasmedia:1" ; Times: 8
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UTEP" ; Times: 1
+	Query: "class:Mammalia county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34; institutioncode:UTEP" ; Times: 1
+	Query: "Anaxyrus cognatus" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "genus:ambystoma institutioncode:UTEP" ; Times: 1
+	Query: "NOTIOSOREX LESLIE" ; Times: 1
+	Query: "(mustela frenata)" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon stateprovince:&#34;New Mexico&#34; institutioncode:UTEP" ; Times: 4
+	Query: "Trimorphodon biscutatus mappable:1" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Mephitis institutioncode:UTEP" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 3
+	Query: "incilius alvarius" ; Times: 1
+	Query: "Senticolis triaspis mappable:1" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 4
+	Query: "genus:Ambystoma stateprovince:&#34;New Mexico&#34;" ; Times: 4
+	Query: "(Phrynosoma) institutioncode:UTEP" ; Times: 1
+	Query: "M-5742" ; Times: 1
+	Query: "class:Mammalia county:&#34;Lea&#34; stateprovince:&#34;New Mexico&#34; institutioncode:UTEP" ; Times: 1
+	Query: "scaphiopus hammondi" ; Times: 2
+	Query: "Mustela frenata" ; Times: 8
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "mustela nigripes" ; Times: 2
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "genus:Spilogale institutioncode:UTEP" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Grant&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "pantherophis emoryi" ; Times: 1
+	Query: "class:Mammalia county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; institutioncode:UTEP" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 2
+	Query: "class:Mammalia county:&#34;Hudspeth&#34; institutioncode:UTEP" ; Times: 1
+	Query: "spea hammondi" ; Times: 1
+	Query: "specificepithet:merriami genus:perognathus year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:megalotis genus:Reithrodontomys county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Trimorphodon county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "lampropeltis pyromelana pyromelana" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;eddy&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:fulva genus:hirundo" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "class:Mammalia county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34; institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "specificepithet:leucodon genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 1
+	Query: "ferret" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps" ; Times: 4
+	Query: "J W Harris" ; Times: 1
+	Query: "Phrynosoma douglasii mappable:1" ; Times: 1
+	Query: "Trimorphodon AND Grant County" ; Times: 1
+	Query: "genus:Canis hasmedia:1" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;San Juan&#34; stateprovince:&#34;New Mexico&#34; institutioncode:UTEP" ; Times: 1
+	Query: "class:reptilia institutioncode:UTEP" ; Times: 1
+	Query: "class:reptilia county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; institutioncode:UTEP" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 7
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1263 download events in this period)
+Total number of records downloaded: 2283
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 10
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-14 ; Times: 7
+	Date: 2019-04-30 ; Times: 4
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-02 ; Times: 13
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "canis lupus (mexico)" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "specificepithet:fulva genus:hirundo" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:neomexicana genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:New Mexico" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2019" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "(Phrynosoma) institutioncode:UTEP" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 1
+	Query: "specificepithet:pyrrhonota genus:hirundo" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:leucodon genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Texas" ; Times: 1
+
+
+End of report.
