@@ -1,0 +1,231 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 202
+Number of records retrieved in searches: 2865
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 189
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 2
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-22 ; Times: 3
+	Date: 2019-06-23 ; Times: 5
+	Date: 2019-06-24 ; Times: 8
+	Date: 2019-06-25 ; Times: 10
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-27 ; Times: 5
+	Date: 2019-06-06 ; Times: 2
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-04 ; Times: 3
+	Date: 2019-06-05 ; Times: 5
+	Date: 2019-06-02 ; Times: 1
+	Date: 2019-06-03 ; Times: 7
+	Date: 2019-06-26 ; Times: 1
+	Date: 2019-06-28 ; Times: 9
+	Date: 2019-06-29 ; Times: 12
+	Date: 2019-06-19 ; Times: 6
+	Date: 2019-06-18 ; Times: 3
+	Date: 2019-06-30 ; Times: 4
+	Date: 2019-06-15 ; Times: 1
+	Date: 2019-06-14 ; Times: 2
+	Date: 2019-06-17 ; Times: 5
+	Date: 2019-06-16 ; Times: 2
+	Date: 2019-06-11 ; Times: 58
+	Date: 2019-06-10 ; Times: 25
+	Date: 2019-06-13 ; Times: 2
+	Date: 2019-06-12 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Cryptotis sp." ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "LAMPROPELTIS PYROMELANA" ; Times: 2
+	Query: "genus:Icaronycteris specificepithet:index" ; Times: 2
+	Query: "genus:Podiceps specificepithet:nigricollis" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:spectabilis" ; Times: 2
+	Query: "genus:Lepus specificepithet:californicus" ; Times: 1
+	Query: "Animal teeth" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:cinereus" ; Times: 1
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "genus:Bos specificepithet:taurus" ; Times: 1
+	Query: "genus:Neotoma specificepithet:floridana" ; Times: 1
+	Query: "genus:Crotaphytus specificepithet:collaris" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 2
+	Query: "genus:Homotherium specificepithet:serum" ; Times: 2
+	Query: "genus:Puma specificepithet:concolor" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "genus:lampropeltis country:&#34;mexico&#34;" ; Times: 5
+	Query: "genus:Cygnus specificepithet:columbianus" ; Times: 1
+	Query: "genus:Lepus specificepithet:townsendii" ; Times: 1
+	Query: "genus:Hyla specificepithet:arenicolor" ; Times: 1
+	Query: "genus:Rhinocheilus specificepithet:lecontei" ; Times: 1
+	Query: "genus:Phenacodus specificepithet:primaevus" ; Times: 1
+	Query: "genus:Branta specificepithet:canadensis" ; Times: 1
+	Query: "genus:Cathartes" ; Times: 1
+	Query: "genus:Gallus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 3
+	Query: "genus:Taxidea specificepithet:taxus" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 1
+	Query: "Petrochelidon pyrrhonota mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "lampropeltis bernalillo county" ; Times: 1
+	Query: "genus:Gyalopion specificepithet:canum" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "genus:Epicyon" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "Lampropeltis Pyromelana" ; Times: 4
+	Query: "CM 2653" ; Times: 1
+	Query: "genus:Cophosaurus specificepithet:texanus" ; Times: 1
+	Query: "genus:Corvus specificepithet:corax" ; Times: 1
+	Query: "genus:Antilocapra specificepithet:americana" ; Times: 1
+	Query: "genus:Holbrookia specificepithet:maculata" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 3
+	Query: "genus:Tyto" ; Times: 1
+	Query: "genus:Myotis specificepithet:thysanodes" ; Times: 1
+	Query: "genus:Smilodon specificepithet:fatalis" ; Times: 2
+	Query: "specificepithet:bottae genus:Thomomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Strix occidentalis mappable:1" ; Times: 4
+	Query: "genus:Cavia specificepithet:porcellus" ; Times: 1
+	Query: "Centrocercus minimus mappable:1" ; Times: 3
+	Query: "genus:Bison specificepithet:antiquus" ; Times: 1
+	Query: "Felis lynx mappable:1" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:debilis" ; Times: 1
+	Query: "genus:Chen specificepithet:caerulescens" ; Times: 1
+	Query: "genus:Elgaria specificepithet:kingii" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "specificepithet:canum genus:Gyalopion" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "genus:Circus specificepithet:cyaneus" ; Times: 1
+	Query: "Centrocercus minimus" ; Times: 7
+	Query: "genus:Spilogale specificepithet:gracilis" ; Times: 1
+	Query: "genus:Sceloporus specificepithet:cowlesi" ; Times: 1
+	Query: "genus:Terrapene specificepithet:ornata" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "genus:Brachylagus specificepithet:idahoensis" ; Times: 1
+	Query: "felis concolor" ; Times: 2
+	Query: "genus:Myotis specificepithet:evotis" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "genus:Anas specificepithet:discors" ; Times: 1
+	Query: "genus:Canis specificepithet:dirus" ; Times: 1
+	Query: "genus:Geococcyx specificepithet:californianus" ; Times: 1
+	Query: "genus:Equus specificepithet:complicatus" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:microscaphus" ; Times: 1
+	Query: "Pyromelana" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "genus:Smilodon specificepithet:gracilis" ; Times: 1
+	Query: "genus:Arctodus specificepithet:simus" ; Times: 2
+	Query: "genus:Myotis specificepithet:ciliolabrum" ; Times: 1
+	Query: "genus:Athene specificepithet:cunicularia" ; Times: 1
+	Query: "genus:Neotoma specificepithet:mexicana" ; Times: 1
+	Query: "genus:Trimorphodon specificepithet:vilkinsonii" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:mavortium" ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 26
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 1
+	Query: "Centrocercus urophasianus mappable:1" ; Times: 2
+	Query: "genus:Neotoma specificepithet:cinerea" ; Times: 2
+	Query: "genus:Crotalus specificepithet:atrox" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 20
+	Query: "Puma concolor" ; Times: 3
+	Query: "genus:Peromyscus specificepithet:gratus" ; Times: 1
+	Query: "Centrocercus urophasianus minimus mappable:1" ; Times: 2
+	Query: "Centrocercus urophasianus minimus" ; Times: 5
+	Query: "genus:Geomys specificepithet:bursarius" ; Times: 1
+	Query: "genus:cratogeomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix mappable:1" ; Times: 2
+	Query: "genus:Bogertophis specificepithet:subocularis" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:cognatus" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:obsoletus" ; Times: 1
+	Query: "genus:Spea specificepithet:bombifrons" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "H. E. ANthony" ; Times: 1
+	Query: "genus:Merycoidodon specificepithet:culbertsoni" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "genus:Perognathus specificepithet:flavescens" ; Times: 1
+	Query: "Lampropeltis New Mexico" ; Times: 1
+	Query: "genus:Meleagris" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1182 download events in this period)
+Total number of records downloaded: 5493
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-22 ; Times: 6
+	Date: 2019-06-19 ; Times: 1
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 3
+	Date: 2019-06-07 ; Times: 9
+	Date: 2019-06-04 ; Times: 5
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-03 ; Times: 4
+	Date: 2019-06-01 ; Times: 2
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-12 ; Times: 2
+	Date: 2019-06-26 ; Times: 3
+	Date: 2019-06-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera stateprovince:&#34;New MExico&#34;" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "specificepithet:flavus genus:perognathus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "cathartes aura" ; Times: 2
+	Query: "vntype:specimen order:Squamata hastypestatus:1" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:merriami genus:perognathus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "strigiformes" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "genus:cratogeomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 2
+	Query: "corvus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "specificepithet:bottae genus:Thomomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Turdus migratorius" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "vntype:specimen class:Reptilia hastypestatus:1" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
