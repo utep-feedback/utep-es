@@ -1,0 +1,200 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 336
+Number of records retrieved in searches: 5201
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 5
+	Country: Nepal ; Times: 2
+	Country: United States ; Times: 315
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 12
+	Date: 2019-07-19 ; Times: 8
+	Date: 2019-07-08 ; Times: 20
+	Date: 2019-07-12 ; Times: 66
+	Date: 2019-07-13 ; Times: 5
+	Date: 2019-07-10 ; Times: 21
+	Date: 2019-07-11 ; Times: 30
+	Date: 2019-07-16 ; Times: 43
+	Date: 2019-07-17 ; Times: 10
+	Date: 2019-07-14 ; Times: 3
+	Date: 2019-07-15 ; Times: 14
+	Date: 2019-07-23 ; Times: 7
+	Date: 2019-07-22 ; Times: 4
+	Date: 2019-07-21 ; Times: 2
+	Date: 2019-07-20 ; Times: 5
+	Date: 2019-07-27 ; Times: 3
+	Date: 2019-07-26 ; Times: 7
+	Date: 2019-07-25 ; Times: 3
+	Date: 2019-07-24 ; Times: 6
+	Date: 2019-07-01 ; Times: 6
+	Date: 2019-07-30 ; Times: 4
+	Date: 2019-07-03 ; Times: 6
+	Date: 2019-07-02 ; Times: 6
+	Date: 2019-07-05 ; Times: 9
+	Date: 2019-07-04 ; Times: 11
+	Date: 2019-07-07 ; Times: 4
+	Date: 2019-07-06 ; Times: 13
+	Date: 2019-07-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Felis onca mappable:1" ; Times: 1
+	Query: "genus:Gallus" ; Times: 1
+	Query: "genus:Cathartes specificepithet:aura" ; Times: 1
+	Query: "family:Canidae AND (NOT fossil) institutioncode:UTEP" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UTEP" ; Times: 2
+	Query: "UTEP 4440" ; Times: 2
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 50
+	Query: "specificepithet:vilkinsonii stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Centrocercus minimus" ; Times: 120
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "skull family:Canidae AND (NOT fossil) institutioncode:UTEP" ; Times: 1
+	Query: "lampropeltis bernalillo county" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys county:&#34;Hudspeth&#34;" ; Times: 1
+	Query: "Vulpes macrotis mappable:1" ; Times: 2
+	Query: "genus:Epicyon" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "Vulpes velox mappable:1" ; Times: 2
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "genus:Corvus specificepithet:corax" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "felis concolor" ; Times: 3
+	Query: "megascops asio" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UTEP" ; Times: 2
+	Query: "Crotalus institutioncode:UTEP" ; Times: 2
+	Query: "caracara" ; Times: 1
+	Query: "Centrocercus urophasianus minimus" ; Times: 51
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 3
+	Query: "genus:Holbrookia specificepithet:maculata" ; Times: 1
+	Query: "genus:Equus haslength:1" ; Times: 3
+	Query: "family:soricidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "UTEP 4456" ; Times: 1
+	Query: "specificepithet:idahoensis genus:Brachylagus" ; Times: 3
+	Query: "genus:Tamias specificepithet:cinereicollis" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "vntype:specimen genus:vulpes hasmedia:1" ; Times: 1
+	Query: "genus:Spiza specificepithet:americana" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "genus:Equus specificepithet:complicatus" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "Bos taurus mappable:1" ; Times: 1
+	Query: "family:Canidae institutioncode:UTEP" ; Times: 1
+	Query: "Brachylagus idahoensis mappable:1" ; Times: 2
+	Query: "family:Colubridae stateprovince:&#34;New Mexico&#34; distance(location,geopoint(32.47974848574412,-104.70710269949649))&lt;60280.05377949344" ; Times: 5
+	Query: "skull family:Canidae AND (NOT fossil NOT cave) institutioncode:UTEP" ; Times: 1
+	Query: "Strix occidentalis mappable:1" ; Times: 2
+	Query: "genus:Limnodromus " ; Times: 1
+	Query: "genus:Antrozous" ; Times: 1
+	Query: "Crotalus lepidus lepidus" ; Times: 3
+	Query: "genus:Arizona" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 19
+	Query: "Felis lynx" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "genus:Meleagris" ; Times: 1
+	Query: "genus:Vulpes hasmedia:1" ; Times: 3
+	Query: "family:Colubridae stateprovince:&#34;New Mexico&#34; distance(location,geopoint(32.23846197067105,-104.75104801199649))&lt;35970.75656074191" ; Times: 1
+	Query: "gbifdatasetid:dab57200-c600-4f26-b657-cf217443034e" ; Times: 1
+	Query: "genus:Athene specificepithet:cunicularia" ; Times: 1
+	Query: "genus:Corynorhinus specificepithet:townsendii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 985 download events in this period)
+Total number of records downloaded: 18640
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 44
+	Country: India ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-25 ; Times: 18
+	Date: 2019-07-22 ; Times: 2
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-30 ; Times: 4
+	Date: 2019-07-31 ; Times: 16
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-17 ; Times: 2
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia hasmass:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:Hernandesi genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;New Mexico&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1996 year &lt;= 2000" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 2
+	Query: "specificepithet:ornatus genus:Urosaurus" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 2005 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1991 year &lt;= 1995" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 2006 year &lt;= 2010" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "genus:Pantherophis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1990 year &lt;= 1995" ; Times: 1
+	Query: "family:soricidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "specificepithet:undulatus genus:Sceloporus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1966 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Plestiodon" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1961 year &lt;= 1965" ; Times: 3
+	Query: "skull family:Canidae AND (NOT fossil NOT cave) institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1986 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 2000 year &lt;= 2004" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1976 year &lt;= 1980" ; Times: 2
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "class:reptilia hastypestatus:1" ; Times: 1
+
+
+End of report.
