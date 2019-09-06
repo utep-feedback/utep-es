@@ -1,0 +1,193 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 180
+Number of records retrieved in searches: 2289
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 147
+	Country: Mexico ; Times: 7
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 10
+	Country: Peru ; Times: 9
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 6
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-08 ; Times: 17
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 23
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-07 ; Times: 23
+	Date: 2019-08-26 ; Times: 12
+	Date: 2019-08-09 ; Times: 9
+	Date: 2019-08-24 ; Times: 2
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-23 ; Times: 3
+	Date: 2019-08-20 ; Times: 6
+	Date: 2019-08-21 ; Times: 3
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 19
+	Date: 2019-08-14 ; Times: 15
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-12 ; Times: 4
+	Date: 2019-08-11 ; Times: 4
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 13
+	Date: 2019-08-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "pyromelana" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys county:&#34;Eddy&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "Tracheophyta" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Centrocercus minimus" ; Times: 22
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UTEP" ; Times: 2
+	Query: "Charadrius vociferus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 11
+	Query: "skull family:Canidae AND (NOT fossil) institutioncode:UTEP" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "genus:Phrynosoma country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "genus:Centrocercus" ; Times: 2
+	Query: "genus:Cathartes basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Felis lynx" ; Times: 11
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 2
+	Query: "senticolis" ; Times: 1
+	Query: "specificepithet:nasicus genus:heterodon stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "vntype:specimen genus:Tympanuchus family:Phasianidae order:Galliformes isfossil:1" ; Times: 3
+	Query: "catalognumber:244" ; Times: 1
+	Query: "Anaxyrus debilis mappable:1" ; Times: 5
+	Query: "Incilius alvarius mappable:1" ; Times: 3
+	Query: "Centrocercus urophasianus minimus" ; Times: 2
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "genus:Equus haslength:1" ; Times: 4
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:minimus genus:Centrocercus" ; Times: 6
+	Query: "genus:Lynx country:&#34;Mexico&#34;" ; Times: 3
+	Query: "Panthera onca" ; Times: 10
+	Query: "Spiza americana" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 10
+	Query: "skull family:Canidae AND (NOT fossil NOT cave) institutioncode:UTEP" ; Times: 1
+	Query: "Anaxyrus microscaphus mappable:1" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 13
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 2
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "teratornis" ; Times: 1
+	Query: "anaxyrus woodhousii texas" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 5
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1034 download events in this period)
+Total number of records downloaded: 2280
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 30
+	Country: China ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Fiji ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-02 ; Times: 3
+	Date: 2019-08-01 ; Times: 3
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-14 ; Times: 5
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 6
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 4
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phrynosoma country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen (&#34;Bubo virginianus&#34; OR &#34;Bubo scandiacus&#34; OR &#34;Bubo scandiaca&#34; OR &#34;Nyctea scandiacus&#34; OR &#34;Nyctea scandiaca&#34;)" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Accipiter" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 2
+	Query: "Bassariscus" ; Times: 1
+	Query: "specificepithet:minimus genus:Centrocercus" ; Times: 5
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "vntype:specimen family:Rallidae hastissue:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "myotis ciliolabrum" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "family:Accipitridae" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "natricidae" ; Times: 1
+
+
+End of report.
