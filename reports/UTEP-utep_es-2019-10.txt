@@ -1,0 +1,337 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 295
+Number of records retrieved in searches: 3563
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 269
+	Country: Belgium ; Times: 1
+	Country: Sri Lanka ; Times: 6
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 8
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-22 ; Times: 19
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-02 ; Times: 3
+	Date: 2019-10-05 ; Times: 53
+	Date: 2019-10-04 ; Times: 156
+	Date: 2019-10-07 ; Times: 4
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-18 ; Times: 5
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-10 ; Times: 11
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-14 ; Times: 7
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus nasutus 2011" ; Times: 1
+	Query: "Peromyscus nasutus 2010" ; Times: 1
+	Query: "Peromyscus nasutus 2013" ; Times: 1
+	Query: "Peromyscus nasutus 2012" ; Times: 1
+	Query: "Peromyscus nasutus 2015" ; Times: 1
+	Query: "Microtus ochrogaster 2000" ; Times: 1
+	Query: "Microtus ochrogaster 2001" ; Times: 1
+	Query: "Peromyscus nasutus 2019" ; Times: 2
+	Query: "Dipodomys ordii 1972" ; Times: 1
+	Query: "Dipodomys ordii 1973" ; Times: 1
+	Query: "institutioncode:UTEP basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Peromyscus nasutus 1986" ; Times: 1
+	Query: "Peromyscus nasutus 1987" ; Times: 1
+	Query: "Peromyscus nasutus 1984" ; Times: 1
+	Query: "Peromyscus nasutus 1985" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UTEP" ; Times: 2
+	Query: "Onychomys leucogaster 1995" ; Times: 1
+	Query: "Onychomys leucogaster 1996" ; Times: 1
+	Query: "Neotoma mexicana 1994" ; Times: 1
+	Query: "Onychomys leucogaster 1990" ; Times: 1
+	Query: "specificepithet:dalquesti genus:notiosorex isfossil:1" ; Times: 1
+	Query: "Peromyscus nasutus 1988" ; Times: 1
+	Query: "Dipodomys ordii 1985" ; Times: 1
+	Query: "Dipodomys ordii 1984" ; Times: 1
+	Query: "Dipodomys ordii 1987" ; Times: 1
+	Query: "Dipodomys ordii 1989" ; Times: 1
+	Query: "Dipodomys ordii 1988" ; Times: 1
+	Query: "BRACHYLAGUS IDAHOENSIS" ; Times: 1
+	Query: "Centrocercus minimus 1987" ; Times: 1
+	Query: "Centrocercus minimus 1986" ; Times: 1
+	Query: "Centrocercus minimus 1985" ; Times: 1
+	Query: "specificepithet:laceianus genus:PEROMYSCUS country:&#34;United States&#34;" ; Times: 1
+	Query: "Neotoma mexicana 1984" ; Times: 1
+	Query: "Microtus montanus 2007" ; Times: 1
+	Query: "specificepithet:woodhousii county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Microtus longicaudus 1977" ; Times: 1
+	Query: "Microtus longicaudus 1974" ; Times: 1
+	Query: "Microtus longicaudus 1975" ; Times: 1
+	Query: "Reithrodontomys megalotis 2011" ; Times: 1
+	Query: "Neotoma mexicana 2012" ; Times: 1
+	Query: "Reithrodontomys megalotis 2019" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 2
+	Query: "Geomys bursarius 2006" ; Times: 1
+	Query: "Reithrodontomys megalotis 1977" ; Times: 1
+	Query: "Onychomys leucogaster 1987" ; Times: 1
+	Query: "Onychomys leucogaster 1985" ; Times: 1
+	Query: "Onychomys leucogaster 1984" ; Times: 2
+	Query: "Onychomys leucogaster 1989" ; Times: 1
+	Query: "Onychomys leucogaster 1988" ; Times: 1
+	Query: "Thomomys talpoides 1975" ; Times: 1
+	Query: "Chaetodipus hispidus 1989" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Microtus montanus 1990" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 5
+	Query: "Antilocapra americana" ; Times: 5
+	Query: "specificepithet:asio genus:megascops institutioncode:UTEP" ; Times: 1
+	Query: "Microtus ochrogaster 1999" ; Times: 1
+	Query: "Microtus ochrogaster 1998" ; Times: 1
+	Query: "capra hircus" ; Times: 1
+	Query: "Microtus ochrogaster 1991" ; Times: 1
+	Query: "Microtus ochrogaster 1990" ; Times: 1
+	Query: "Microtus ochrogaster 1993" ; Times: 1
+	Query: "Microtus ochrogaster 1992" ; Times: 1
+	Query: "Microtus ochrogaster 1995" ; Times: 1
+	Query: "Microtus ochrogaster 1994" ; Times: 1
+	Query: "Microtus ochrogaster 1997" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 1
+	Query: "crotalus lepidus new mexico" ; Times: 1
+	Query: "Microtus montanus 2019" ; Times: 5
+	Query: "Microtus ochrogaster 2016" ; Times: 1
+	Query: "genus:notiosorex stateprovince:&#34;chihuahua&#34;" ; Times: 1
+	Query: "Microtus ochrogaster 2013" ; Times: 1
+	Query: "genus:Tantilla institutioncode:UTEP" ; Times: 1
+	Query: "Onychomys leucogaster 1991" ; Times: 1
+	Query: "Microtus ochrogaster 1988" ; Times: 1
+	Query: "Microtus ochrogaster 1989" ; Times: 1
+	Query: "valley river canis lupus" ; Times: 1
+	Query: "Microtus ochrogaster 1982" ; Times: 1
+	Query: "Microtus ochrogaster 1983" ; Times: 1
+	Query: "Microtus ochrogaster 1980" ; Times: 1
+	Query: "Microtus ochrogaster 1981" ; Times: 1
+	Query: "Microtus ochrogaster 1986" ; Times: 1
+	Query: "Microtus ochrogaster 1987" ; Times: 1
+	Query: "Microtus ochrogaster 1984" ; Times: 1
+	Query: "Microtus ochrogaster 1985" ; Times: 1
+	Query: "Thomomys talpoides 1993" ; Times: 1
+	Query: "Thomomys talpoides 1992" ; Times: 1
+	Query: "Thomomys talpoides 1991" ; Times: 1
+	Query: "Thomomys talpoides 1990" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma hastissue:1" ; Times: 1
+	Query: "Thomomys talpoides 1995" ; Times: 1
+	Query: "Microtus ochrogaster 2018" ; Times: 1
+	Query: "specificepithet:nigriceps genus:Tantilla institutioncode:UTEP" ; Times: 1
+	Query: "cm 1322" ; Times: 2
+	Query: "specificepithet:nigripes" ; Times: 2
+	Query: "Peromyscus nasutus 1977" ; Times: 1
+	Query: "Microtus montanus 1988" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "genus:Phrynosoma institutioncode:UTEP hastissue:1" ; Times: 1
+	Query: "Peromyscus nasutus 1975" ; Times: 1
+	Query: "Onychomys leucogaster 1979" ; Times: 1
+	Query: "genus:phrynosoma institutioncode:UTEP hastissue:1" ; Times: 1
+	Query: "Microtus ochrogaster 1996" ; Times: 1
+	Query: "Onychomys leucogaster 1973" ; Times: 1
+	Query: "Thomomys talpoides 1988" ; Times: 1
+	Query: "Thomomys talpoides 1989" ; Times: 1
+	Query: "CM peromyscus" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "Thomomys talpoides 1982" ; Times: 1
+	Query: "Thomomys talpoides 1983" ; Times: 1
+	Query: "family:helodermatidae" ; Times: 1
+	Query: "brachylagus idahoensis" ; Times: 1
+	Query: "Thomomys talpoides 1987" ; Times: 1
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 2
+	Query: "Onychomys leucogaster 2014" ; Times: 1
+	Query: "Onychomys leucogaster 2016" ; Times: 2
+	Query: "Onychomys leucogaster 2010" ; Times: 1
+	Query: "Onychomys leucogaster 2011" ; Times: 1
+	Query: "Onychomys leucogaster 2013" ; Times: 1
+	Query: "Microtus ochrogaster 1977" ; Times: 1
+	Query: "Microtus montanus 1975" ; Times: 1
+	Query: "Microtus montanus 1977" ; Times: 1
+	Query: "Microtus montanus 1973" ; Times: 1
+	Query: "specificepithet:harrisi genus:notiosorex isfossil:1" ; Times: 1
+	Query: "Reithrodontomys megalotis 1987" ; Times: 1
+	Query: "Reithrodontomys megalotis 1986" ; Times: 1
+	Query: "Microtus montanus 1978" ; Times: 1
+	Query: "Neotoma cinerea 1984" ; Times: 1
+	Query: "Neotoma cinerea 1985" ; Times: 1
+	Query: "Neotoma cinerea 1986" ; Times: 1
+	Query: "Neotoma cinerea 1987" ; Times: 1
+	Query: "mustela nigripes" ; Times: 11
+	Query: "specificepithet:Nasicus genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Neotoma cinerea 1982" ; Times: 1
+	Query: "Neotoma cinerea 1983" ; Times: 1
+	Query: "thamnophis proximus mexico" ; Times: 1
+	Query: "Neotoma cinerea 1988" ; Times: 1
+	Query: "Neotoma cinerea 1989" ; Times: 1
+	Query: "Dipodomys ordii 2012" ; Times: 2
+	Query: "Microtus longicaudus 1982" ; Times: 1
+	Query: "Dipodomys ordii 2011" ; Times: 1
+	Query: "Dipodomys ordii 2016" ; Times: 2
+	Query: "Microtus longicaudus 1984" ; Times: 3
+	Query: "Microtus longicaudus 1989" ; Times: 1
+	Query: "Microtus longicaudus 1988" ; Times: 1
+	Query: "Geomys bursarius 2019" ; Times: 1
+	Query: "Neotoma mexicana 2013" ; Times: 1
+	Query: "Neotoma cinerea 1978" ; Times: 1
+	Query: "Neotoma mexicana 2011" ; Times: 1
+	Query: "Microtus montanus 1984" ; Times: 1
+	Query: "Neotoma cinerea 1972" ; Times: 1
+	Query: "Neotoma cinerea 1975" ; Times: 1
+	Query: "Neotoma cinerea 1974" ; Times: 1
+	Query: "Neotoma cinerea 1977" ; Times: 1
+	Query: "Centrocercus minimus 1984" ; Times: 1
+	Query: "Dipodomys ordii 2015" ; Times: 2
+	Query: "Onychomys leucogaster 2000" ; Times: 1
+	Query: "specificepithet:robustus genus:sylvilagus" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "Neotoma cinerea 1993" ; Times: 1
+	Query: "Neotoma cinerea 2009" ; Times: 1
+	Query: "Neotoma cinerea 1991" ; Times: 1
+	Query: "Neotoma cinerea 1990" ; Times: 1
+	Query: "Neotoma cinerea 2004" ; Times: 1
+	Query: "Neotoma cinerea 2007" ; Times: 1
+	Query: "specificepithet:laceianus genus:PEROMYSCUS" ; Times: 2
+	Query: "Chaetodipus hispidus 2013" ; Times: 1
+	Query: "Chaetodipus hispidus 2010" ; Times: 1
+	Query: "Chaetodipus hispidus 2011" ; Times: 1
+	Query: "Chaetodipus hispidus 2014" ; Times: 1
+	Query: "Chaetodipus hispidus 2015" ; Times: 1
+	Query: "genus:Notiosorex stateprovince:&#34;chihuahua&#34;" ; Times: 1
+	Query: "Dipodomys ordii 1990" ; Times: 1
+	Query: "Dipodomys ordii 2006" ; Times: 1
+	Query: "Microtus ochrogaster 2019" ; Times: 4
+	Query: "Puma concolor" ; Times: 8
+	Query: "Dipodomys ordii 1994" ; Times: 1
+	Query: "Neotoma cinerea 1981" ; Times: 1
+	Query: "Microtus longicaudus 1993" ; Times: 1
+	Query: "Chaetodipus hispidus 2019" ; Times: 2
+	Query: "class:aves institutioncode:UTEP basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Neotoma mexicana 1985" ; Times: 1
+	Query: "Neotoma mexicana 2006" ; Times: 1
+	Query: "Neotoma mexicana 1990" ; Times: 1
+	Query: "Neotoma mexicana 1996" ; Times: 1
+	Query: "Neotoma mexicana 1995" ; Times: 1
+	Query: "Chaetodipus hispidus 1984" ; Times: 1
+	Query: "Neotoma mexicana 1987" ; Times: 1
+	Query: "Chaetodipus hispidus 1987" ; Times: 1
+	Query: "Thomomys talpoides 2019" ; Times: 4
+	Query: "Chaetodipus hispidus 1973" ; Times: 1
+	Query: "valley river 1349" ; Times: 1
+	Query: "Microtus longicaudus 2012" ; Times: 1
+	Query: "specificepithet:arenarius genus:Geomys family:Geomyidae stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Thomomys talpoides 2013" ; Times: 1
+	Query: "Thomomys talpoides 2012" ; Times: 1
+	Query: "Thomomys talpoides 2011" ; Times: 1
+	Query: "Thomomys talpoides 2010" ; Times: 1
+	Query: "M 1607" ; Times: 1
+	Query: "Neotoma cinerea 2019" ; Times: 4
+	Query: "Microtus ochrogaster 2012" ; Times: 1
+	Query: "Neotoma cinerea 2016" ; Times: 1
+	Query: "Neotoma cinerea 2014" ; Times: 1
+	Query: "Neotoma cinerea 2013" ; Times: 1
+	Query: "Neotoma cinerea 2012" ; Times: 1
+	Query: "Neotoma cinerea 2011" ; Times: 1
+	Query: "Neotoma cinerea 2010" ; Times: 1
+	Query: "Neotoma mexicana 1978" ; Times: 1
+	Query: "preparations:skeleton (Panthera onca)" ; Times: 1
+	Query: "specificepithet:nigriceps genus:Tantilla" ; Times: 1
+	Query: "Microtus ochrogaster 1975" ; Times: 1
+	Query: "Thomomys talpoides 2005" ; Times: 1
+	Query: "Microtus ochrogaster 1979" ; Times: 1
+	Query: "Neotoma mexicana 1972" ; Times: 1
+	Query: "Peromyscus nasutus 1995" ; Times: 1
+	Query: "Neotoma cinerea 1995" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 2
+	Query: "Microtus longicaudus 1983" ; Times: 1
+	Query: "Chaetodipus hispidus 2012" ; Times: 1
+	Query: "Neotoma mexicana 1988" ; Times: 1
+	Query: "genus:Crotalus country:&#34;Mexico&#34; institutioncode:UTEP" ; Times: 1
+	Query: "Pantherophis guttatus mappable:1" ; Times: 1
+	Query: "Microtus montanus 2012" ; Times: 1
+	Query: "Microtus montanus 2013" ; Times: 1
+	Query: "Neotoma mexicana 1986" ; Times: 1
+	Query: "Microtus montanus 2011" ; Times: 1
+	Query: "Microtus montanus 2016" ; Times: 3
+	Query: "Centrocercus minimus 2019" ; Times: 1
+	Query: "Neotoma mexicana 1982" ; Times: 1
+	Query: "Neotoma mexicana 1983" ; Times: 1
+	Query: "Centrocercus minimus 2015" ; Times: 1
+	Query: "Centrocercus minimus 2017" ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 1
+	Query: "Neotoma mexicana 1989" ; Times: 1
+	Query: "Centrocercus minimus 2013" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1308 download events in this period)
+Total number of records downloaded: 8388
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 22
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 14
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-30 ; Times: 14
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Canis lupus Linnaeus" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "genus:Myotis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "class:aves institutioncode:UTEP" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "class:aves institutioncode:UTEP basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leptonycteris" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "genus:anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Myotis family:Vespertilionidae order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+
+
+End of report.
