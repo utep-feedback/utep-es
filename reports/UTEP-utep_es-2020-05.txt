@@ -1,0 +1,164 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 1194
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 70
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 3
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 7
+	Date: 2020-05-26 ; Times: 5
+	Date: 2020-05-21 ; Times: 4
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-18 ; Times: 7
+	Date: 2020-05-19 ; Times: 3
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-15 ; Times: 7
+	Date: 2020-05-16 ; Times: 5
+	Date: 2020-05-17 ; Times: 4
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-08 ; Times: 9
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Bovidae hasmedia:1" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida stateprovince:&#34;chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis" ; Times: 2
+	Query: "specificepithet:emoryi genus:pantherophis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "phrynosoma douglasii" ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 6
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "&#34;mephitis mephitis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "xenarthra" ; Times: 1
+	Query: "Gopherus morafkai" ; Times: 1
+	Query: "genus:Borealosuchus (Paleogene OR Paleocene)" ; Times: 4
+	Query: "Sigmodon ochrognathus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "Texas Accipiter striatus" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 10
+	Query: "Texas Accipiter cooperii" ; Times: 1
+	Query: "sylvilagus robustus" ; Times: 4
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "gaigeae family:Emydidae" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gaigeae" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 8
+	Query: "9738 peromyscus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "heterodon mexico" ; Times: 1
+	Query: "Texas Limnodromus scolopaceus" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "heterodon Texas pecos" ; Times: 1
+	Query: "specificepithet:vison family:Mustelidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:soricidae stateprovince:&#34;chihuahua&#34;" ; Times: 1
+	Query: "Coyote stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Onychomys arenicola arenicola stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; “sus scrofa”" ; Times: 2
+	Query: "Scaphiopus bombifrons" ; Times: 1
+	Query: "heterodon Mexico" ; Times: 2
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1106 download events in this period)
+Total number of records downloaded: 7282
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-01 ; Times: 2
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-30 ; Times: 3
+	Date: 2020-05-23 ; Times: 4
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-22 ; Times: 6
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 3
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Thamnophis class:reptilia stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "conepatus leuconotus" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "genus:Borealosuchus (Paleogene OR Paleocene)" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 2
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 2
+	Query: "viperidae" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "gaigeae family:Emydidae" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:vison family:Mustelidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Perognathus merriami" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "genus:Uta stansburiana country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2020" ; Times: 1
+
+
+End of report.
