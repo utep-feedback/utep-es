@@ -1,0 +1,226 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 276
+Number of records retrieved in searches: 3323
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 252
+	Country: United Kingdom ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-17 ; Times: 25
+	Date: 2020-01-09 ; Times: 4
+	Date: 2020-01-29 ; Times: 8
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 6
+	Date: 2020-01-05 ; Times: 5
+	Date: 2020-01-21 ; Times: 8
+	Date: 2020-01-20 ; Times: 6
+	Date: 2020-01-23 ; Times: 39
+	Date: 2020-01-22 ; Times: 12
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-27 ; Times: 10
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-18 ; Times: 94
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-14 ; Times: 9
+	Date: 2020-01-15 ; Times: 10
+	Date: 2020-01-16 ; Times: 7
+	Date: 2020-01-31 ; Times: 3
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-13 ; Times: 4
+	Date: 2020-01-30 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;senticolis triaspis&#34;" ; Times: 2
+	Query: "genus:Geomys locality:Sierra de los Pinos institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 3
+	Query: "specificepithet:mogollonensis genus:Microtus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 102
+	Query: "family:Phyllostomidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Accipiter class:aves isfossil:1" ; Times: 1
+	Query: "specificepithet:arenicola genus:Onychomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 7
+	Query: "county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34; isfossil:1" ; Times: 9
+	Query: "family:Mephitidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea" ; Times: 1
+	Query: "Canis familiaris mappable:1" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 29
+	Query: "family:Ursidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 3
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 2
+	Query: "genus:Cratogeomys stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:audubonii genus:sylvilagus stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "genus:Geomys institutioncode:UTEP" ; Times: 10
+	Query: "specificepithet:baileyi genus:Chaetodipus stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "&#34;senticolis triaspis&#34; country:united states" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus" ; Times: 1
+	Query: "gopherus mexico" ; Times: 2
+	Query: "family:Mustelidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1950" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "mustela nigripes" ; Times: 8
+	Query: "family:Felidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 11
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "Felidae sp. mappable:1" ; Times: 2
+	Query: "Terrapene ornata mexico" ; Times: 2
+	Query: "family:Bovidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "axis axis" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 3
+	Query: "genus:Microtus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gopherus chihuahua" ; Times: 1
+	Query: "Plestiodon multivirgatus" ; Times: 1
+	Query: "family:Procyonidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma year &gt;= 2010 year &lt;= 2020" ; Times: 2
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "specificepithet:triseriata genus:Pseudacris" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 6
+	Query: "genus:heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "microtus mogollonensis in texas" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "county:&#34;Sierra&#34; stateprovince:&#34;New Mexico&#34; isfossil:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "genus:Erethizon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gopherus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "variables texas" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "family:Cervidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "picta Chrysemys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 85 (out of 1584 download events in this period)
+Total number of records downloaded: 4426
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 78
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 11
+	Date: 2020-01-05 ; Times: 7
+	Date: 2020-01-28 ; Times: 5
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-23 ; Times: 7
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-11 ; Times: 6
+	Date: 2020-01-12 ; Times: 5
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-22 ; Times: 7
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-30 ; Times: 13
+	Date: 2020-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1986 year &lt;= 1990" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 5
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Aspidoscelis neomexicanus" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "family:Molossidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Phyllostomidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Ursidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "family:Mustelidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "family:Dasypodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "family:Felidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 2
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Plestiodon multivirgatus" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "family:Bovidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "family:Mephitidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Vespertilionidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Microtus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "genus:Reithrodontomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1950" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "family:Procyonidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "aves hastissue:1 country:mexico" ; Times: 1
+	Query: "class:Aves country:Mexico" ; Times: 2
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1976 year &lt;= 1980" ; Times: 1
+	Query: "gopherus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Spea" ; Times: 1
+	Query: "genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Sceloporus cowlesi" ; Times: 1
+	Query: "family:Cervidae stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
