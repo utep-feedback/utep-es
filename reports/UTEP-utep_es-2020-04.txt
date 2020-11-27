@@ -1,0 +1,240 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 291
+Number of records retrieved in searches: 7139
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 63
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 215
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 73
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-23 ; Times: 4
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-07 ; Times: 80
+	Date: 2020-04-26 ; Times: 6
+	Date: 2020-04-01 ; Times: 8
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-03 ; Times: 24
+	Date: 2020-04-28 ; Times: 7
+	Date: 2020-04-29 ; Times: 8
+	Date: 2020-04-08 ; Times: 39
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-19 ; Times: 3
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-17 ; Times: 4
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 10
+	Query: "Anas acuta" ; Times: 13
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Ovis aries" ; Times: 10
+	Query: "heloderma" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "Bison antiquus" ; Times: 1
+	Query: "North Midden" ; Times: 1
+	Query: "sigmodon ochrognathus (texas)" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 3
+	Query: "genus:Mephitis stateprovince:&#34;Texas&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 5
+	Query: "Anas strepera" ; Times: 13
+	Query: "usnm mephitis mephitis" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "genus:ambystoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:desmodus hasmedia:1" ; Times: 5
+	Query: "Meleagris gallopavo" ; Times: 2
+	Query: "Panthera onca" ; Times: 4
+	Query: "genus:Spilogale stateprovince:&#34;Texas&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 5
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 3
+	Query: "Anas crecca" ; Times: 13
+	Query: "Fulica americana" ; Times: 3
+	Query: "Sylvilagus robustus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 2
+	Query: "Axis axis" ; Times: 2
+	Query: "cathartes hasmedia:1" ; Times: 2
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Anas americana" ; Times: 11
+	Query: "Lithobates blairi" ; Times: 1
+	Query: "camel" ; Times: 1
+	Query: "Tringa melanoleuca" ; Times: 5
+	Query: "Podiceps nigricollis" ; Times: 3
+	Query: "Equus asinus" ; Times: 2
+	Query: "Circus cyaneus" ; Times: 4
+	Query: "Cynomys ludovicianus" ; Times: 4
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "vntype:specimen genus:Cryptotis family:Soricidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "asinus" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "Limnodromus scolopaceus" ; Times: 6
+	Query: "Pica pica" ; Times: 4
+	Query: "hasmedia:1 tarsometatarsus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Cygnus cygnus" ; Times: 9
+	Query: "Equus caballus" ; Times: 2
+	Query: "Odocoileus hemionus" ; Times: 3
+	Query: "Bos taurus" ; Times: 3
+	Query: "Antrozous pallidus county:&#34;hudspeth&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "lynx rufus México" ; Times: 2
+	Query: "Capra hircus" ; Times: 2
+	Query: "gallus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Corvus corax" ; Times: 9
+	Query: "Asio flammeus Texas" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 3
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "phrynosoma douglasii" ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "class:Gastropoda basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Asio flammeus" ; Times: 3
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "Panthera Onca Skull" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "specificepithet:mavortium genus:ambystoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Xerospermophilus spilosoma" ; Times: 4
+	Query: "Grus canadensis" ; Times: 4
+	Query: "A. pygmaea" ; Times: 6
+	Query: "Icterid" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "V. vulpes" ; Times: 5
+	Query: "Anas platyrhynchos" ; Times: 12
+	Query: "Erethizon dorsatum" ; Times: 3
+	Query: "Heloderma" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1171 download events in this period)
+Total number of records downloaded: 34216
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 64
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 4
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-22 ; Times: 7
+	Date: 2020-04-23 ; Times: 7
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-28 ; Times: 6
+	Date: 2020-04-29 ; Times: 17
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 3
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-16 ; Times: 4
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bison antiquus" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "vntype:specimen genus:Bubo" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "vntype:specimen family:Camelidae" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "class:Bivalvia basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 2
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 2
+	Query: "vntype:specimen specificepithet:cowlesi genus:Sceloporus" ; Times: 1
+	Query: "Odocoileus Hemionus" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "family:Passerellidae hastissue:1" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "Asio flammeus Texas" ; Times: 1
+	Query: "class:Gastropoda" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "vntype:specimen genus:Cryptotis family:Soricidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "sciurus" ; Times: 1
+
+
+End of report.
