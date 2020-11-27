@@ -1,0 +1,108 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 826
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 10
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 16
+	Date: 2019-12-26 ; Times: 2
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-30 ; Times: 6
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-11 ; Times: 7
+	Date: 2019-12-04 ; Times: 5
+	Date: 2019-12-03 ; Times: 8
+	Date: 2019-12-01 ; Times: 4
+	Date: 2019-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "2013-1064" ; Times: 1
+	Query: "lagurus" ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 5
+	Query: "family:Helodermatidae isfossil:1" ; Times: 2
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "axis" ; Times: 1
+	Query: "specificepithet:microscaphus genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:cognatus genus:Anaxyrus" ; Times: 2
+	Query: "SP 3030" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "genus:Rhinocheilus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 3
+	Query: "Phrynosoma cornutum mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 2
+	Query: "Crotalus viridis mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "senticolis triaspis mexico" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "spilogale putorius" ; Times: 2
+	Query: "mustela nigripes" ; Times: 2
+	Query: "order:Chiroptera county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "specificepithet:debilis genus:Anaxyrus" ; Times: 2
+	Query: "Ambystoma tigrinum mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "LAMPROPELTIS PyROMELANA" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:alvarius genus:Incilius" ; Times: 2
+	Query: "specificepithet:putorius genus:SPilogale" ; Times: 3
+	Query: "genus:Bassariscus" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale institutioncode:UTEP" ; Times: 1
+	Query: "Chrysemys picta mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "vntype:specimen specificepithet:townsendii genus:lepus year &lt;= 2018 month &lt;= 12 enddayofyear &lt;= 8" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 596 download events in this period)
+Total number of records downloaded: 516
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Paraguay ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 2
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-02 ; Times: 2
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-05 ; Times: 5
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+
+
+End of report.
