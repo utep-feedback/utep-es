@@ -1,0 +1,153 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 151
+Number of records retrieved in searches: 1771
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 78
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 71
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 4
+	Date: 2020-02-03 ; Times: 3
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-06 ; Times: 7
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-22 ; Times: 2
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-09 ; Times: 51
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-11 ; Times: 16
+	Date: 2020-02-10 ; Times: 13
+	Date: 2020-02-12 ; Times: 17
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-17 ; Times: 3
+	Date: 2020-02-16 ; Times: 4
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 4
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-20 ; Times: 9
+	Date: 2020-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Smithsonian Cathartidae" ; Times: 1
+	Query: "l3" ; Times: 1
+	Query: "gyalopion canum" ; Times: 4
+	Query: "pantherophis emoryi" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 3
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1980" ; Times: 1
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Gopherus morafkai" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 8
+	Query: "Cynomys mexicanus" ; Times: 42
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "&#34;panthera onca&#34;" ; Times: 1
+	Query: "bison atlas" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 3
+	Query: "class:aves catalognumber:755" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:spea hastypestatus:1" ; Times: 1
+	Query: "&#34;Bos taurus&#34;" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 17
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 2
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 5
+	Query: "&#34;Panthera onca&#34;" ; Times: 1
+	Query: "genus:Incilius specificepithet:alvarius" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 2011 year &lt;= 2020" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "genus:Notiosorex stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 2
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 2020" ; Times: 1
+	Query: "urocitellus elegans" ; Times: 2
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 2
+	Query: "antilocapra americana" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 2
+	Query: "&#34;Erethizon dorsatum&#34;" ; Times: 3
+	Query: "Senticolis triaspis" ; Times: 12
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1970" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1023 download events in this period)
+Total number of records downloaded: 15474
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 22
+	Country: El Salvador ; Times: 1
+	Country: United States ; Times: 19
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-27 ; Times: 4
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-12 ; Times: 10
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-04 ; Times: 4
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-20 ; Times: 4
+	Date: 2020-02-09 ; Times: 4
+	Date: 2020-02-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cavia" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 2020" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Cynomys mexicanus" ; Times: 4
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 6
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1970" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 2
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 2011 year &lt;= 2020" ; Times: 2
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Notiosorex stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anguidae" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 3
+	Query: "el salvador" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Uta squamata" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+
+
+End of report.
