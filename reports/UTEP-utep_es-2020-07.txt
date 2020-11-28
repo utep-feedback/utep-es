@@ -1,0 +1,152 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 1775
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 67
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-19 ; Times: 7
+	Date: 2020-07-25 ; Times: 4
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-01 ; Times: 6
+	Date: 2020-07-05 ; Times: 3
+	Date: 2020-07-03 ; Times: 8
+	Date: 2020-07-02 ; Times: 7
+	Date: 2020-07-30 ; Times: 6
+	Date: 2020-07-17 ; Times: 6
+	Date: 2020-07-14 ; Times: 6
+	Date: 2020-07-31 ; Times: 5
+	Date: 2020-07-20 ; Times: 4
+	Date: 2020-07-04 ; Times: 4
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:peregrinus genus:Falco county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "notiosorex dalquesti" ; Times: 2
+	Query: "Crotalus lepidus" ; Times: 4
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 7
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;3120076" ; Times: 1
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "specificepithet:punctatus genus:anaxyrus county:&#34;grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "human" ; Times: 1
+	Query: "scientificname:Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "specificepithet:multivirgatus family:Scincidae county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Homotherium distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "Conepatus" ; Times: 1
+	Query: "genus:Sus" ; Times: 1
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "genus:Pantherophis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "tamias canipes stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "genus:Lampropeltis institutioncode:UTEP" ; Times: 3
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;4977167" ; Times: 1
+	Query: "genus:Notiosorex isfossil:1" ; Times: 1
+	Query: "scientificname:Panthera onca " ; Times: 2
+	Query: "Panthera onca" ; Times: 2
+	Query: "specificepithet:pyromelana county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:Anguidae county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "antilocapra americana" ; Times: 1
+	Query: "genus:cardinalis hastissue:1" ; Times: 1
+	Query: "Rana catesbiana" ; Times: 1
+	Query: "country:mexico genus:phrynosoma" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 7
+	Query: "genus:Lynx distance(location,geopoint(5.469554883887501,-88.65234375))&lt;3923916" ; Times: 1
+	Query: "genus:sus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 940 download events in this period)
+Total number of records downloaded: 6909
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 17
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "genus:Incilius" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "genus:Notiosorex isfossil:1" ; Times: 1
+	Query: "specificepithet:hernandesi genus:phrynosoma" ; Times: 1
+	Query: "Natricidae" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+
+
+End of report.
