@@ -1,0 +1,166 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 1237
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 19
+	Country: United States ; Times: 52
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 3
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-24 ; Times: 9
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-16 ; Times: 3
+	Date: 2020-09-14 ; Times: 7
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-17 ; Times: 8
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-12 ; Times: 4
+	Date: 2020-09-13 ; Times: 11
+	Date: 2020-09-18 ; Times: 8
+	Date: 2020-09-19 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "sus scrofa continent:north america" ; Times: 2
+	Query: "vntype:specimen family:Camelidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 2
+	Query: "cynomys ludovicianus" ; Times: 14
+	Query: "Bison hasmedia:1" ; Times: 1
+	Query: "scientificname:Reithrodontomys megalotis" ; Times: 1
+	Query: "scientificname:Peromyscus gratus" ; Times: 1
+	Query: "bogertophis" ; Times: 1
+	Query: "scientificname:Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "sylvilagus floridanus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "scat" ; Times: 1
+	Query: "Centrocercus urophasianus hastissue:1" ; Times: 1
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Panthera onca México" ; Times: 1
+	Query: "Buteogallus" ; Times: 1
+	Query: "Jiménez chihuahua" ; Times: 1
+	Query: "genus:Gyalopion institutioncode:UTEP" ; Times: 1
+	Query: "73.009" ; Times: 2
+	Query: "genus:Crotaphytus county:&#34;Hudspeth&#34;" ; Times: 1
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;Texas&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "buteogallus" ; Times: 1
+	Query: "class:Aves recordedby:Matthews" ; Times: 1
+	Query: "specificepithet:nasutus genus:Peromyscus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "genus:Crotaphytus county:&#34;Hudspeth&#34; year &gt;= 1997" ; Times: 1
+	Query: "specificepithet:idahoensis genus:Brachylagus" ; Times: 2
+	Query: "odocoileus sp." ; Times: 1
+	Query: "specificepithet:minimus genus:Centrocercus" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 2
+	Query: "Tympanuchus pallidicinctus hastissue:1" ; Times: 1
+	Query: "sigmodon vntype:specimen hasmedia:1" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "jimenez chihuahua" ; Times: 7
+	Query: "specificepithet:virginianus genus:bubo country:&#34;mexico&#34;" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae order:Artiodactyla hasmedia:1" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; country:&#34;united states&#34; (Canis )" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae order:Artiodactyla hasmedia:1 isfossil:1" ; Times: 1
+	Query: "specificepithet:Evotis genus:Myotis stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "bos taurus" ; Times: 1
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 3
+	Query: "specificepithet:americanus genus:ursus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "locality:t.h.e. cave" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 976 download events in this period)
+Total number of records downloaded: 16388
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Netherlands ; Times: 5
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-24 ; Times: 3
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 5
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 6
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-09 ; Times: 5
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "specificepithet:lupus arctos genus:canis" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "Ambystoma tigrinum mexico" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "Panthera onca México" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "order:Galliformes hastissue:1" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "order:Serpentes" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 3
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+
+
+End of report.
