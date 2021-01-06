@@ -1,0 +1,150 @@
+Report for Institution Code UTEP, Resource utep_es
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 1725
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Colombia ; Times: 5
+	Country: Unknown ; Times: 13
+	Country: United Kingdom ; Times: 19
+	Country: Peru ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 6
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-08 ; Times: 6
+	Date: 2020-12-07 ; Times: 4
+	Date: 2020-12-05 ; Times: 3
+	Date: 2020-12-04 ; Times: 13
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-01 ; Times: 5
+	Date: 2020-12-25 ; Times: 5
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-23 ; Times: 3
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-29 ; Times: 6
+	Date: 2020-12-10 ; Times: 6
+	Date: 2020-12-11 ; Times: 11
+	Date: 2020-12-13 ; Times: 5
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:caracara" ; Times: 2
+	Query: "Ovis aries" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Fulica americana" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 2
+	Query: "mappable:1 scientificname:Falco rufigularis" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "genus:erethizon isfossil:1" ; Times: 6
+	Query: "class:Mammalia county:&#34;Jefferson&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "spea hammondi" ; Times: 2
+	Query: "Anas strepera" ; Times: 1
+	Query: "mappable:1 scientificname:Anaxyrus woodhousei" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "specificepithet:arenarius genus:geomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Cavia porcellus " ; Times: 3
+	Query: "Equus caballus" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Bos taurus" ; Times: 2
+	Query: "genus:Crotaphytus hastissue:1" ; Times: 4
+	Query: "Gallus gallus" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:bursarius genus:geomys stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "Spiza americana" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "mappable:1 scientificname:Tyto alba" ; Times: 2
+	Query: "scientificname:Panthera onca" ; Times: 5
+	Query: "mappable:1 scientificname:Athene cunicularia" ; Times: 4
+	Query: "genus:Caracara" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 2
+	Query: "specificepithet:arenarius genus:Geomys" ; Times: 1
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UTEP" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 705 download events in this period)
+Total number of records downloaded: 3711
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 14
+	Country: Germany ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-29 ; Times: 3
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:punctatus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:bursarius genus:geomys stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:crotalus family:viperidae country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "genus:Crotalus family:Viperidae country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Chihuahua&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UTEP" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
